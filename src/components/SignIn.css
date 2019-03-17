@@ -1,0 +1,28 @@
+
+
+.form {
+    background-color:cornsilk;
+    min-height: 20vh;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .textarea {
+    width: 20%;
+    height: 40px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    /* border: 2px solid #ccc; */
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+  }
+
+.button{
+    color: white;
+    background-color: royalblue;    
+    height: 40px;
+    width: 20% !important;
+    
+}
+  
